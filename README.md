@@ -22,7 +22,7 @@ This repo runs on a [Donkey-Car](https://www.donkeycar.com/) vehicle and, his co
 
 ## Realsense2
 In this project, the donkey car is equipped with 2 Intel realsense cameras, T265 and D435.
-To set up the cameras, please follow [Realsense](https://github.com/IntelRealSense/librealsense) installation guide. 
+To set up the cameras, please follow [Realsense](https://github.com/IntelRealSense/librealsense) installation guide.
 *note that some of the files need to be transferred to the car sub-directory in order to use the cameras with the car*
 
 # Parts
