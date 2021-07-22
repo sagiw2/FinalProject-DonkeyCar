@@ -16,8 +16,8 @@ The navigation commands in this method are given by clicking on a video feed pro
 This repo runs on a [Donkey-Car](https://www.donkeycar.com/) vehicle and, his configuration is as follows:
 * clone this repo
 * Setting up your car provided by [Ori's Code](https://ori.codes/)
-  ** [building your car](https://ori.codes/hardware/)
-  ** [setting up your RC car](https://ori.codes/software/donkeycar-rc/)
+  * [building your car](https://ori.codes/hardware/)
+  * [setting up your RC car](https://ori.codes/software/donkeycar-rc/)
 *there is no need to clone the donkey repo as all files are present in this one (pandemic version)*
 
 ## Realsense2
