@@ -26,7 +26,7 @@ This repo runs on a [Donkey-Car](https://www.donkeycar.com/) vehicle and, his co
 In this project, the donkey car is equipped with 2 Intel realsense cameras, T265 and D435.
 To set up the cameras, please follow [Realsense](https://github.com/IntelRealSense/librealsense) installation guide.
 
-*note that some of the files need to be transferred to the car sub-directory in order to use the cameras with the car*
+*note that some of the files need to be transferred to the car sub-directory to use the cameras with the car*
 
 # Parts
 
@@ -38,3 +38,8 @@ There are 3 parts designed for this algorithm:
 # Usage
 
 After completing the installation, the system is plug n play. Boot up the car and connect through an ssh server to it (need an -XC prefix to receive video data). After a video feed is received simply click on the screen and the car will travel to the desired location.
+
+# TODO
+* remove non-relevant code snippets left from testing
+* separate the open-cv video feed from the pointandgo.py and move it to another part to speed up the algorithm code
+* finish occupancy grid from depth image and integrate it to the algorithm
