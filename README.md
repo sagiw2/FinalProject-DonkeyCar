@@ -15,7 +15,7 @@ The navigation commands in this method are given by clicking on a video feed pro
 # Installation
 
 ## Donkey-Car
-This repo runs on a [Donkey-Car](https://www.donkeycar.com/) vehicle and, his configuration is as follows:
+This repo runs on a [Donkey-Car](https://www.donkeycar.com/) vehicle. The setup is as follows:
 * clone this repo
 * Setting up your car provided by [Ori's Code](https://ori.codes/)
   * [building your car](https://ori.codes/hardware/)
