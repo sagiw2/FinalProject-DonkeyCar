@@ -29,7 +29,7 @@ To set up the cameras, please follow [Realsense](https://github.com/IntelRealSen
 # Parts
 
 There are 3 parts designed for this algorithm:
-* pointandgo.py *now named donkey_car_test after bug fixed will be merged back to pointandgo.py* - runs the Point & Go algorithm
+* pointandgo.py - runs the Point & Go algorithm *now named donkey_car_test after bug fixed will be merged back to pointandgo.py*
 * T265_donkey.py - pulls the relevant data from the SLAM camera
 * D435_donkey.py - pulls the relevant data from the Depth camera
 
