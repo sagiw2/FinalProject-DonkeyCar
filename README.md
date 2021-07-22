@@ -3,14 +3,14 @@
 Current Maintainer: Sagi Weiss <sagi953@gmail.com>
 
 
-# INTRODUCTION
+# Introduction
 
 My final project during my B.Sc in Mechanical Engineering at BGU.
 This project is in "Remote operation of vehicles with an emphasis on dealing with communication delays."
 My solution is a local navigation algorithm called - Point & Go.
 The navigation commands in this method are given by clicking on a video feed provided by a camera mounted on the robot; the click position is then converted to a real-world location - "Target Location". After a target location is obtained, the robot can navigate without user assistance using a control loop based on the lateral dynamics of vehicles and a PID controller.
 
-# INSTALLATION
+# Installation
 
 ## Donkey-Car
 This repo runs on a [Donkey-Car](https://www.donkeycar.com/) vehicle and, his configuration is as follows:
