@@ -5,7 +5,7 @@ Current Maintainer: Sagi Weiss <sagi953@gmail.com>
 
 # Introduction
 
-My final project during my B.Sc in Mechanical Engineering at BGU.
+My final project for my B.Sc in Mechanical Engineering at BGU.
 
 This project goal is "Remote operation of vehicles with an emphasis on dealing with communication delays."
 
